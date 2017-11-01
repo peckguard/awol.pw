@@ -1,0 +1,15 @@
+---
+ID: 19147
+post_title: 'Southeast Congo faces &#8216;deadly disaster&#8217;, half a million people displaced: NGO'
+author: Staff
+post_excerpt: ""
+layout: post
+permalink: >
+  https://whenitson.com/2017/11/01/southeast-congo-faces-deadly-disaster-half-a-million-people-displaced-ngo/
+published: true
+post_date: 2017-11-01 10:02:16
+---
+ [ad_1]
+<br><div data-reactid="31"><p data-reactid="32">ABIDJAN (Reuters) - More than half a million people have fled ethnic violence in southeastern Democratic Republic of Congo since last year, the Norwegian Refugee Council (NRC) said on Wednesday, warning that the area is “on the brink of a deadly disaster”.  </p><p data-reactid="33">Four years of clashes between militias representing the Luba, a Bantu ethnic group, and Twa pygmies in Tanganyika province have killed hundreds of people and forced thousands to flee into neighboring Zambia. </p><p data-reactid="34">The conflict, which appears to have intensified in recent months, is part of a worsening humanitarian crisis in Congo. Militia violence has spiked this year, fueled in part by President Joseph Kabila’s refusal to step down when his constitutional mandate expired last December.  </p><p data-reactid="35">“Tanganyika is on the brink of a deadly disaster,” said Ulrika Blom, NRC’s Congo country director, in a statement. “It’s a catastrophic cocktail about to blow up.”  </p><p data-reactid="36">The United Nations declared Congo a level three humanitarian emergency last month - the highest possible classification and on par with Iraq, Syria and Yemen. Nearly 4 million Congolese are internally displaced.  </p><p data-reactid="37">NRC, an independent aid agency, said that over 80 percent of the people sheltering in displacement sites it visited over the last two weeks in Tanganyika do not have access to clean drinking water.  </p><p data-reactid="38">The conflict in Tanganyika is driven by inequalities between Bantu villagers and the Twa, a hunting and gathering people historically excluded from access to land and basic services. </p><p data-reactid="39">Some 600,000 children are also on the brink of starvation in central Congo’s Kasai region, where a local insurrection has killed up to 5,000 people since August of last year, the World Food Programme’s executive director said on Monday. </p><p data-reactid="40">Millions died during regional conflicts in eastern Congo between 1996-2003, most from hunger and disease.  </p><div class="Attribution_attribution_o4ojT" data-reactid="41"><p class="Attribution_content_27_rw" data-reactid="42">Reporting By Aaron Ross; Editing by Raissa Kasolowsky</p></div><div class="ArticleBody_trustBadgeContainer_1_iEv" data-reactid="43"><span class="ArticleBody_trustBadgeTitle_3xFqc" data-reactid="44">Our Standards:</span><span class="trustBadgeUrl" data-reactid="45">The Thomson Reuters Trust Principles.</span></div></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/Reuters/worldNews/~3/IiCJdowe55c/southeast-congo-faces-deadly-disaster-half-a-million-people-displaced-ngo-idUSKBN1D1488">Source link </a>
