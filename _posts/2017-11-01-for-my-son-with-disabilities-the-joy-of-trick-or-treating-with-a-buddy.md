@@ -1,0 +1,26 @@
+---
+ID: 19143
+post_title: >
+  For My Son With Disabilities, the Joy of
+  Trick-or-Treating With a Buddy
+author: Staff
+post_excerpt: ""
+layout: post
+permalink: >
+  https://whenitson.com/2017/11/01/for-my-son-with-disabilities-the-joy-of-trick-or-treating-with-a-buddy/
+published: true
+post_date: 2017-11-01 09:45:23
+---
+ [ad_1]
+<br><div>
+        <p class="story-body-text story-content" data-para-count="299" data-total-count="1500" id="story-continues-3">But in his preschool class of children with special needs, no one had play dates or birthday parties. His twin brother seemed to be invited to a party a week. Why were the families of kids with special needs different? Was the idea of reaching out too painful because it meant the risk of rejection?</p><p class="story-body-text story-content" data-para-count="163" data-total-count="1663">When I finally invited another child for a play date, his mother wept with astonishment and appreciation. Our kids were doing something everyone else’s kids did.</p><p class="story-body-text story-content" data-para-count="443" data-total-count="2106">This inspired me to have a little end-of-year celebration for my son’s small preschool class in our backyard. Everyone came and some brought wrapped gifts even though it wasn’t a birthday party. It was clear that this was the first party most of the children had been invited to. I had a few more parties, but as kids grow older, parents naturally step back, leaving the kids to bond with the friends of their choosing — the typical way.</p><p class="story-body-text story-content" data-para-count="586" data-total-count="2692">In elementary school, my son with disabilities lagged behind his twin in friendships and maturity. He could not see faces clearly and missed social cues. It wasn’t until middle school, a time I feared the most for him, that he truly connected with a friend. This boy lived right in our neighborhood but had attended a different elementary school, so they didn’t know each other. Then they started riding the middle school bus together and bonded because the other boy also had some visual struggles. They found that they both loved cats and video games, so they started to hang out.</p>
+
+<p class="story-body-text story-content" data-para-count="393" data-total-count="3085">My son used his white cane to walk to this friend’s house, which turned out to be just around the block. I would stand at my dining room window and watch him disappear around the corner with his cane swaying back and forth in front of him just as he had been trained to do. I felt anxious about letting him go, worrying that he might get lost, but I was proud of his courageous independence.</p><p class="story-body-text story-content" data-para-count="222" data-total-count="3307">His friend’s family even took him with them for an overnight trip to Cape Cod. My son, who is medically fragile, had an incident at the beach that required medical assistance, which his friend’s mom handled like a pro.</p><p class="story-body-text story-content" data-para-count="343" data-total-count="3650">My son is now a sophomore in high school and has made several friends through school and our church youth group. Despite his limited vision, he has found a passion in film, photography and editing videos. He even films the high school football games for his TV production class and has wonderful teachers and fellow classmates who support him.</p><p class="story-body-text story-content" data-para-count="189" data-total-count="3839">His confidence is growing daily. When he visited one friend’s house, the dad texted my husband ahead of time to make sure they had some of our son’s favorite snacks, which was so sweet.</p><div id="story-ad-2" class="story-ad ad ad-placeholder nocontent robots-nocontent ">
+    
+Continue reading the main story
+</div>
+<p class="story-body-text story-content" data-para-count="309" data-total-count="4148" id="story-continues-4">Last Halloween, he went trick-or-treating with a friend whose dad gleefully accompanied them, dressed in full costume himself. He went along to help keep our son safe in the dark, because of his limited vision and his own son’s special needs. This dad innately understood the importance of their friendship.</p>
+<p class="story-body-text story-content" data-para-count="447" data-total-count="4595">Although our son still shares activities with his twin, the social validation of spending time with other children his age who actively choose his company is something precious. As parents, our job is to be there to encourage and guide but stay out of the way, too. As much as we may want to intervene and orchestrate at times, friendships form through exposure to other kids with shared interests; true friendships need time and space to develop.</p><p class="story-body-text story-content" data-para-count="133" data-total-count="4728">It took a while, but by now, being able to go trick-or-treating with a real friend makes those fun-size candy bars taste extra sweet.</p>Continue reading the main story
+    </div>
+<br>[ad_2]
+<br><a href="https://www.nytimes.com/2017/10/30/well/family/for-my-son-with-disabilities-the-joy-of-trick-or-treating-with-a-buddy.html?partner=rss&#038;emc=rss">Source link </a>
