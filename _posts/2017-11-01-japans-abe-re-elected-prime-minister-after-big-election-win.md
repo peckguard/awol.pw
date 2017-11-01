@@ -1,0 +1,15 @@
+---
+ID: 19109
+post_title: 'Japan&#8217;s Abe re-elected prime minister after big election win'
+author: Staff
+post_excerpt: ""
+layout: post
+permalink: >
+  https://whenitson.com/2017/11/01/japans-abe-re-elected-prime-minister-after-big-election-win/
+published: true
+post_date: 2017-11-01 06:15:15
+---
+ [ad_1]
+<br><div data-reactid="31"><p data-reactid="32">TOKYO (Reuters) - Japan’s Shinzo Abe was re-elected prime minister on Wednesday after his ruling bloc’s big election win last month and days ahead of a visit by U.S. President Donald Trump that is expected to be dominated by concerns over a volatile North Korea. </p><div class="PrimaryAsset_container_2pnvl" data-reactid="33"><div class="Image_container_1tVQo" data-reactid="34"><figure tabindex="-1" data-reactid="35"/><figcaption data-reactid="38"><span class="Image_caption_KoNH1" data-reactid="39">Japan's Prime Minister Shinzo Abe (R) gestures as he talks with ruling Liberal Democratic Party lawmaker Seiko Noda at the Lower House of the Parliament in Tokyo, Japan, November 1, 2017. REUTERS/Toru Hanai</span></figcaption></div></div><p data-reactid="40">Abe, 63, took office in December 2012, promising to reboot the stale economy and bolster defense. </p><p data-reactid="41">His Liberal Democratic Party-led coalition retained its two-thirds “super majority” in parliament’s lower house in the Oct. 22 election, reenergizing his push to revise the post-war, pacifist constitution. </p><p data-reactid="42">Abe was expected to reappoint current cabinet ministers and tell them to compile an extra budget for the year to March 31, 2018 focusing on child care and boosting productivity. </p><p data-reactid="43">In a telephone conversation on Monday, Abe and Trump agreed to work together on steps to counter Pyongyang’s nuclear and missile development.  </p><p data-reactid="44">Trump told Abe “he is looking forward to his visit to Japan, that Japan and America are 100 percent together and there is no room to doubt the Japan-U.S. alliance,” Japanese Deputy Chief Cabinet Secretary Yasutoshi Nishimura told reporters. </p><p data-reactid="45">The two leaders have developed a close personal relationship since Trump was elected, and plan to play golf together during Trump’s Nov. 5-7 visit to Japan.  </p><div class="Attribution_attribution_o4ojT" data-reactid="47"><p class="Attribution_content_27_rw" data-reactid="48">Writing by Linda Sieg; Editing by Chang-Ran Kim and Clarence Fernandez</p></div><div class="ArticleBody_trustBadgeContainer_1_iEv" data-reactid="49"><span class="ArticleBody_trustBadgeTitle_3xFqc" data-reactid="50">Our Standards:</span><span class="trustBadgeUrl" data-reactid="51">The Thomson Reuters Trust Principles.</span></div></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/Reuters/worldNews/~3/uTnMB8LG-Ho/japans-abe-re-elected-prime-minister-after-big-election-win-idUSKBN1D13LP">Source link </a>
