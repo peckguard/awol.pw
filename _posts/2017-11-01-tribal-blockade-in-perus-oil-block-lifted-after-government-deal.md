@@ -1,0 +1,15 @@
+---
+ID: 19086
+post_title: 'Tribal blockade in Peru&#8217;s oil block lifted after government deal'
+author: Staff
+post_excerpt: ""
+layout: post
+permalink: >
+  https://whenitson.com/2017/11/01/tribal-blockade-in-perus-oil-block-lifted-after-government-deal/
+published: true
+post_date: 2017-11-01 02:40:17
+---
+ [ad_1]
+<br><div data-reactid="31"><p data-reactid="32">LIMA (Reuters) - Indigenous villagers ended a 43-day protest that had halted production in Peru’s largest oil block after signing a deal with the government, tribal leaders and officials said on Tuesday. </p><p data-reactid="33">As part of the agreement, the government of President Pedro Pablo Kuczynski promised to apply an indigenous rights law before awarding any new, long-term oil drilling contract for Block 192 -- a chief demand of protesters, the energy and mines ministry said in a statement. </p><p data-reactid="34">Canadian Frontera Energy Corp operates Block 192 under a two-year contract but has not produced any oil from it since Achuar, Quechua and Kichwa indigenous tribes seized oil wells on Sept. 18. </p><p data-reactid="35">Protesters wanted the government to clean up oil pollution in the region and to commit to including tribes in talks on long-term oil drilling plans. </p><p data-reactid="36">The blockade was one of scores of conflicts that sometimes disrupt mining and energy operations in Peru, the world’s second biggest copper producer and a relatively small oil producer. </p><p data-reactid="37">Talks between the government and Frontera over a long-term drilling contract ended with no deal, state-owned oil company Petroperu announced earlier this month. </p><p data-reactid="38">Aurelio Chino, a chieftain in the Pastaza River Basin, told Reuters that protesters were no longer occupying company installations. A statement by the leaders of 16 villages that took part in the protests said the protest would end. </p><p data-reactid="39">The government also promised villagers that it would start implementation of an emergency healthcare program in the next 10 days and would form a commission to direct environmental clean-ups in Block 192, the ministry said. </p><p data-reactid="40">Frontera will be summoned to take part in dialogue sessions with villagers to discuss their needs, it added. </p><p data-reactid="41">Frontera has said that the protest did not have a not a material impact for the company. </p><div class="Attribution_attribution_o4ojT" data-reactid="42"><p class="Attribution_content_27_rw" data-reactid="43">Reporting by Mitra Taj; Editing by Sandra Maler</p></div><div class="ArticleBody_trustBadgeContainer_1_iEv" data-reactid="44"><span class="ArticleBody_trustBadgeTitle_3xFqc" data-reactid="45">Our Standards:</span><span class="trustBadgeUrl" data-reactid="46">The Thomson Reuters Trust Principles.</span></div></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/Reuters/worldNews/~3/6aAgVeCrdz0/tribal-blockade-in-perus-oil-block-lifted-after-government-deal-idUSKBN1D13C2">Source link </a>
