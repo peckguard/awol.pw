@@ -1,0 +1,17 @@
+---
+ID: 19148
+post_title: >
+  Philippines arrests Indonesian
+  pro-Islamist militant in Marawi
+author: Staff
+post_excerpt: ""
+layout: post
+permalink: >
+  https://whenitson.com/2017/11/01/philippines-arrests-indonesian-pro-islamist-militant-in-marawi/
+published: true
+post_date: 2017-11-01 10:07:16
+---
+ [ad_1]
+<br><div data-reactid="31"><p data-reactid="32">MANILA (Reuters) - Philippine security forces on Wednesday arrested an Indonesian national suspected to be among the pro-Islamist militants who seized control of parts of the southern city of Marawi in May, military and police officials said. </p><p data-reactid="33">The seizure stoked concerns that the region had become a hub for Islamic State in Southeast Asia, triggering a five-month military effort to eject the militants, comprised of domestic fighters and foreigners such as Indonesians, Malaysians and Middle Easterners.  </p><p data-reactid="34">Community peacekeepers arrested the Indonesian on Wednesday morning, Colonel Romeo Brawner, deputy commander of the Marawi task force, told reporters. </p><p data-reactid="35">The arrest highlights that “civilian participation is essential in our collective effort to secure our communities from terrorist elements,” Zia Alonto Adiong, a politician who is assisting in rescue and relief, said in a statement. </p><p data-reactid="36">The arrest came a day after a pro-Islamic State militant was gunned down and nine days after the Philippines wrapped up military operations. More than 1,100 people, mostly militants, died in the siege, which drove about 350,000 from their homes. </p><p data-reactid="37">The militant identified himself as Muhammad Ilham Shaputra, 23, from Medan City in North Sumatra, said John Guyguyon, police chief of the province of Lanao del Sur, where Marawi is located. </p><p data-reactid="38">His bag held a mobile phone, a .45-caliber handgun, a fragmentation grenade and Philippine and Indonesian currencies, along with some riyals, while he tried to escape through a lake, Guyguyon added. </p><p data-reactid="39">“Our action is to file a case against him because he is part of the initial siege,” Guyguyon told a news conference. </p><p data-reactid="40">“We are preparing the investigation report so we can file cases of rebellion, terrorism and others,” Guyguyon said, adding that the Indonesian confessed there were several gunmen still  hiding in the main battle area in downtown Marawi. </p><p data-reactid="41">The Indonesian militant arrived in the Philippines in November last year at the invitation of Isnilon Hapilon, the Islamic State’s emir in Southeast Asia, who was killed in Marawi last month, Guyguyon said. </p><p data-reactid="42">Thousands of residents have started returning home, only for some to find dwellings ransacked. But the main battle area remains off limits, until possible booby traps and unexploded ordnance have been cleared.     </p><div class="Attribution_attribution_o4ojT" data-reactid="43"><p class="Attribution_content_27_rw" data-reactid="44">Reporting by Neil Jerome Morales; Editing by Clarence Fernandez</p></div><div class="ArticleBody_trustBadgeContainer_1_iEv" data-reactid="45"><span class="ArticleBody_trustBadgeTitle_3xFqc" data-reactid="46">Our Standards:</span><span class="trustBadgeUrl" data-reactid="47">The Thomson Reuters Trust Principles.</span></div></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/Reuters/worldNews/~3/ETsCQ6QQJjg/philippines-arrests-indonesian-pro-islamist-militant-in-marawi-idUSKBN1D148T">Source link </a>
