@@ -1,0 +1,32 @@
+---
+ID: 19240
+post_title: >
+  Ancient Fossil Offers a New European
+  Ancestor to Giraffes
+author: Staff
+post_excerpt: ""
+layout: post
+permalink: >
+  https://whenitson.com/2017/11/02/ancient-fossil-offers-a-new-european-ancestor-to-giraffes/
+published: true
+post_date: 2017-11-02 17:23:28
+---
+ [ad_1]
+<br><div>
+        <p class="story-body-text story-content" data-para-count="395" data-total-count="1702" id="story-continues-3">Everyone thinks of a giraffe’s long neck as its distinguishing feature. But its biological family members are defined by two characteristics unrelated to necks: they all have double-lobed canine teeth, and ossicones, the bony outcroppings on the top of their heads. Modern giraffes have two small to medium ossicones. The new species had a double set, with the back pair larger than the front.</p><p class="story-body-text story-content" data-para-count="239" data-total-count="1941">Decennatherium rex looked more like a giant moose than either of its living family members, said Nikos Solounias, a giraffe evolution expert and professor of anatomy at the New York Institute of Technology, College of Osteopathic Medicine.</p><figure id="media-100000005528019" class="media photo embedded layout-large-horizontal media-100000005528019 ratio-tall" data-media-action="modal" itemprop="associatedMedia" itemscope="" itemid="https://static01.nyt.com/images/2017/11/02/science/02GIRAFFE2/02GIRAFFE2-master675.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group"><span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="https://static01.nyt.com/images/2017/11/02/science/02GIRAFFE2/02GIRAFFE2-master675.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="https://static01.nyt.com/images/2017/11/02/science/02GIRAFFE2/02GIRAFFE2-superJumbo.jpg" data-mediaviewer-caption="The male Decennatherium rex stood about 9 feet tall and weighed about 2 tons." data-mediaviewer-credit="Ríos et al (2017)" itemprop="url" itemid="https://static01.nyt.com/images/2017/11/02/science/02GIRAFFE2/02GIRAFFE2-master675.jpg"/><meta itemprop="height" content="449"/><meta itemprop="width" content="675"/></div>
+        <figcaption class="caption" itemprop="caption description"><span class="caption-text">The male Decennatherium rex stood about 9 feet tall and weighed about 2 tons.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Ríos et al (2017)        </span>
+            </figcaption></figure><p class="story-body-text story-content" data-para-count="492" data-total-count="2433">The male animal stood about nine feet tall to the top of its head, 6.5 feet across and weighed about two tonnes – smaller than a modern giraffe, but much larger than an okapi, said Dr. Ríos, who received her Ph.D. based on her work with the fossils. In the female Decennatherium rex fossils, the ossicones measure only about two inches, but in the male the large set extends a full 16 inches. “The specimen we found is like a giant and bulky okapi with huge posterior horns,” she said.</p><p class="story-body-text story-content" data-para-count="222" data-total-count="2655">Because both the male and female Decennatherium rex had ossicones, Dr. Grossman said that may push scientists to reconsider their assumption that ossicones evolved to help males compete with one other for female attention.</p><p class="story-body-text story-content" data-para-count="555" data-total-count="3210">Today, there are only two living members of the giraffid family: the modern giraffe, familiar from zoos and African safaris, and the okapi, which has zebra-striped back legs and lives in the rain forests of central Africa. Some scientists have recently argued that modern giraffes are in fact four distinct species. But there have been about 30 giraffid species over time, ranging from the Indian subcontinent and China to the Mediterranean coast, said Dr. Solounias, who is also a research associate of the American Museum of Natural History in New York.</p>
+
+<p class="story-body-text story-content" data-para-count="137" data-total-count="3347">Giraffids began appearing around the beginning of the Miocene, 23 million years ago, he said, probably in what is now Pakistan and India.</p><p class="story-body-text story-content" data-para-count="235" data-total-count="3582">The greatest diversity was found on the Greek Island of Samos, near Turkey, he said, where there were probably eight to nine different species at about the time Decennatherium rex was roaming Spain alongside one or two related species.</p><p class="story-body-text story-content" data-para-count="489" data-total-count="4071">The site where the fossil was found, Cerro de los Batallones (Batallones butte), about an hour south of Madrid’s city center, was first discovered in 1991, Dr. Ríos said. The finds in the clay-like soil have included a rich collection of carnivores, including big cats and bears, as well as giant tortoises, rhinoceroses and a giant elephant-like creature, she said. “It’s really cool.” The giraffe fossils were found in an area that has been the site of digging since about 2007.</p><p class="story-body-text story-content" data-para-count="407" data-total-count="4478">Dr. Ríos and her colleagues used information from the new fossil find to redraw the giraffid family tree. The new tree puts giraffes and okapis relatively far away from each other evolutionarily, Dr. Grossman said, adding to the understanding of these animals and their relationship. “We’re preserving relics of two very distinct groups of giraffes that were morphologically very different,” he said.</p><div id="story-ad-2" class="story-ad ad ad-placeholder nocontent robots-nocontent ">
+    
+Continue reading the main story
+</div>
+<p class="story-body-text story-content" data-para-count="98" data-total-count="4576" id="story-continues-4">The new family tree, Dr. Ríos said, “is a first step to unravel where they really come from.”</p><p class="story-body-text story-content" data-para-count="213" data-total-count="4789">The quality of the fossils and others at the site suggest that there will be many more research findings there, said Dr. Ríos, adding that this past summer she and the team found a complete fossilized rhinoceros.</p>Continue reading the main story
+    </div>
+<br>[ad_2]
+<br><a href="https://www.nytimes.com/2017/11/01/science/giraffes-ancestor-fossil.html?partner=rss&#038;emc=rss">Source link </a>
