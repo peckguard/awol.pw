@@ -1,0 +1,51 @@
+---
+ID: 19246
+post_title: >
+  In Raising Rates, Britain’s Central
+  Bank Issues ‘Brexit’ Warning
+author: Staff
+post_excerpt: ""
+layout: post
+permalink: >
+  https://whenitson.com/2017/11/02/in-raising-rates-britains-central-bank-issues-brexit-warning/
+published: true
+post_date: 2017-11-02 17:31:53
+---
+ [ad_1]
+<br><div>
+        <p class="story-body-text story-content" data-para-count="373" data-total-count="2175" id="story-continues-3">The action packed symbolic import. On a June morning last year, as Britain awoke to the startling news that voters had approved Brexit, the central bank governor, Mark Carney, took to television to offer assurances that help was at the ready to cushion against nasty consequences. Weeks later, the bank announced a quarter-point interest rate cut to spur economic activity.</p><p class="story-body-text story-content" data-para-count="80" data-total-count="2255">Now, nearly a year and a half later, Mr. Carney was taking that easy money back.</p><p class="story-body-text story-content" data-para-count="390" data-total-count="2645">“It’s signaling that the bank has a degree of confidence that that immediate post-referendum worry has been put to bed,” said Lucy O’Carroll, chief economist at Aberdeen Standard Investments, an asset management firm in London. “But there’s a long game to be played, and Mr. Carney is not convinced that Brexit is going to be anything other than harmful for the U.K. economy.”</p><p class="story-body-text story-content" data-para-count="333" data-total-count="2978">Lifting interest rates tends to increase the value of a nation’s money, as investors arrive seeking higher returns. But markets pushed down the value of the British pound against both the dollar and the euro following the central bank’s action, an apparent reflection of worry about Britain’s economy and its trade with Europe.</p><figure id="pound-brexit-tracker" class="interactive interactive-embedded  limit-small layout-flex-medium"><figcaption class="interactive-caption"/><div class="interactive-graphic">
+                <div id="g-pound-brexit-tracker">
+  <p><span class="poundHighlight">$<span id="poundDollar"/></span></p>
+  <p class="poundHighlightDay">The price of the pound in dollars as of <span id="priceDate"/>.</p>
+  <div id="poundStockChartContainer">
+    <img id="poundStockChart" src="https://markets.on.nytimes.com/research/tools/builder/api.asp?sym=%24%24GBPUSD&duration=720&chartstyle=ArticleSpan&w=300&h=200&display=fillclose&scale=2&topLabel=%20&showChange=0&backgroundColor=FFFFFF&fillColor=F98F8F&line1Color=cc0000&line2Color=C7D0D5"/></div>
+  <p>The British pound has <span class="percentChangeHighlight"><span id="percentChangeDirection"/> <span id="percentChangeAmt"/> percent</span> since it was valued at $1.47 just before the vote to leave the European Union on June 24, 2016.</p>
+</div>            </div>
+    
+    
+</figure><p class="story-body-text story-content" data-para-count="228" data-total-count="3206">The clock is ticking toward a March 2019 deadline for negotiations between Britain and the European Union over their future dealings. So far, talks have produced a surplus of bitter recrimination and meager sign of an agreement.</p><p class="story-body-text story-content" data-para-count="417" data-total-count="3623">Uncertainty is already exacting a price. Nearly half of Britain’s exports are sold within the European Union, a stream of cars, liquor and pharmaceuticals that could confront tariffs absent a completed trade deal. As the markets factor in the prospect of diminished trade across the English Channel, they have pushed down the value of the pound by nearly 15 percent against the euro since last year’s Brexit vote.</p><p class="story-body-text story-content" data-para-count="242" data-total-count="3865">The falling currency has lifted the prices of Britain’s imported goods, squeezing households with inflation now running at a 3 percent annual rate. That has dented consumer spending, contributing to a marked slowdown in Britain’s economy.</p><p class="story-body-text story-content" data-para-count="214" data-total-count="4079">As the possibility looms that Britain might crash out of the European Union absent an agreement with the bloc, multinational companies are reassessing the merits of centering operations here, imperiling investment.</p>
+
+<p class="story-body-text story-content" data-para-count="479" data-total-count="4558">London’s status as a global financial center has in recent decades taken strength from rules that allow banking operations in Britain to serve clients across the European Union. Without a deal preserving that arrangement, London’s unique reach is imperiled. Global banks have in recent months inked leases for office space in Frankfurt, Dublin and Paris as they ready plans to move parts of their operations from Britain to places firmly within European confines post-Brexit.</p><div id="story-ad-2" class="story-ad ad ad-placeholder nocontent robots-nocontent ">
+    
+Continue reading the main story
+</div>
+<p class="story-body-text story-content" data-para-count="261" data-total-count="4819" id="story-continues-4">Global auto manufacturers have similarly concentrated factories in Britain while exporting their wares across Europe. But as the potential for an unruly Brexit increases, auto companies are also calculating the merits of shifting production to European locales.</p><p class="story-body-text story-content" data-para-count="408" data-total-count="5227">The British government, headed by a weakened Prime Minister, Theresa May, has pinned hopes on halting this trend by convening negotiations toward striking a future trade deal with Europe. She wants those talk to start in December. That date is of more than random significance: Many multinational companies with operations in Britain hold board meetings in winter months to formulate plans for the next year.</p><p class="story-body-text story-content" data-para-count="217" data-total-count="5444">If December passes without sign of progress on a trade deal — an outcome that is more than thinkable — that will likely accelerate decisions by multinational companies to move pieces of their businesses to Europe.</p><p class="story-body-text story-content" data-para-count="215" data-total-count="5659">In that scenario, Britain risks a recession next year, said Peter Urwin, director of the Centre for Employment Research at Westminster Business School in London. “At the very least, the odds are 50-50,” he said.</p> <figure id="brexit-latest-fallout-tracker" class="interactive promo  layout-large"><a href="https://www.nytimes.com/interactive/2016/business/international/brexit-uk-what-happens-business.html">
+                <figcaption class="interactive-caption"><h2 class="interactive-headline">
+                How ‘Brexit’ Could Change Business in Britain            </h2>
+            <p class="interactive-summary">
+                Britain has started the clock on leaving the European Union, and will be out of the bloc by March 2019. Here is how “Brexit” has affected business so far.            </p>
+        </figcaption><div class="interactive-image-container">
+            <div class="interactive-image">
+                <img src="https://static01.nyt.com/images/2017/03/29/business/27BREXIT/27BREXIT-master495.jpg"/></div>
+            
+        </div>
+
+            </a>
+</figure><p class="story-body-text story-content" data-para-count="370" data-total-count="6029">Central banks tend to lift rates when economies are strengthening. They make credit more expensive so as to guard against the side-effects of rapid expansion, such as rising prices and reckless investment. Yet the Bank of England, Mr. Urwin suggested, appears to be less concerned about inflation than positioning itself to step in with more help if the economy weakens.</p><p class="story-body-text story-content" data-para-count="84" data-total-count="6113">“They are trying to get a little ammunition back in the armory,” Mr. Urwin said.</p><p class="story-body-text story-content" data-para-count="259" data-total-count="6372">Many analysts assumed the bank was essentially forced to deliver the rate hike. Had it held back, that would have surprised investors — a taboo in central banking — while resonating as evidence of deepening concern about the health of the British economy.</p><p class="story-body-text story-content" data-para-count="146" data-total-count="6518">Investors might well have intensified their unloading of the British pound, exacerbating inflation, and increasing the strains facing the economy.</p><p class="story-body-text story-content" data-para-count="302" data-total-count="6820">Skipping the rate hike also would have put Britain further out of step with policymakers in the rest of the global economy, and especially the United States. The Federal Reserve has been lifting rates to return credit to more normal levels, following years of injections of extraordinarily cheap money.</p><p class="story-body-text story-content" data-para-count="378" data-total-count="7198">Yet in lifting rates, the Bank of England has slightly added to the headwinds assailing Britain on its continued slog toward Brexit. Retail and auto sales have been weak, even with ultracheap finance. Now, credit terms are likely to tighten along with variable mortgage rates. The cost of capital will climb slightly for companies already reluctant to invest in uncertain times.</p><div id="story-ad-3" class="story-ad ad ad-placeholder nocontent robots-nocontent ">
+    
+Continue reading the main story
+</div>
+<p class="story-body-text story-content" data-para-count="88" data-total-count="7286" id="story-continues-5">Given the backdrop, investors concluded that another rate hike is unlikely anytime soon.</p><p class="story-body-text story-content" data-para-count="224" data-total-count="7510">“Today’s excitement is likely to prove only a short hiatus before the economy returns to another extended period of monetary policy inaction,” declared Matthew Beck, lead U.K. economist with Oxford Economics in London.</p>Continue reading the main story
+    </div>
+<br>[ad_2]
+<br><a href="https://www.nytimes.com/2017/11/02/business/britain-economy-rates.html?partner=rss&#038;emc=rss">Source link </a>
