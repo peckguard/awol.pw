@@ -1,0 +1,28 @@
+---
+ID: 19249
+post_title: Coming Face to Face With Jimmie Durham
+author: Staff
+post_excerpt: ""
+layout: post
+permalink: >
+  https://whenitson.com/2017/11/02/coming-face-to-face-with-jimmie-durham/
+published: true
+post_date: 2017-11-02 17:35:50
+---
+ [ad_1]
+<br><div>
+        <p class="story-body-text story-content" data-para-count="365" data-total-count="6452" id="story-continues-9">Overt signs of American Indian culture have receded in his art over time. The more recent work in the retrospective — organized by Anne Ellegood, senior curator of the Hammer Museum, and installed by Elisabeth Sussman and Laura Phipps at the Whitney — includes homages to nonnative artists who have influenced him, among them Alexander Calder and David Hammons.</p><p class="story-body-text story-content" data-para-count="514" data-total-count="6966">A brand-new billboard-size piece, “The Free and the Brave,” installed on a Whitney terrace, combines photographs of “Indian country” in the American Southwest with a self-portrait of Mr. Durham playing what looks like a Gypsy version of Marcel Duchamp’s drag alter ego Rrose Sélavy, but that might also refer (I’m just guessing here) to the famous 1890 photograph of the Lakota Sioux chief Spotted Elk, or Bigfoot, who was found frozen to death, a scarf over his head, after the Wounded Knee massacre.</p><figure id="media-100000005527722" class="media photo embedded layout-large-vertical media-100000005527722" data-media-action="modal" itemprop="associatedMedia" itemscope="" itemid="https://static01.nyt.com/images/2017/11/01/arts/03jimmiedurham5/03jimmiedurham5-blog427.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group"><span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="https://static01.nyt.com/images/2017/11/01/arts/03jimmiedurham5/03jimmiedurham5-blog427.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="https://static01.nyt.com/images/2017/11/01/arts/03jimmiedurham5/03jimmiedurham5-superJumbo.jpg" data-mediaviewer-caption="“Self-Portrait Pretending to Be Maria Thereza Alves,” from 1995-2006. Ms. Alves, who is Mr. Durham’s partner, is also an artist and activist." data-mediaviewer-credit="Vincent Tullo for The New York Times" itemprop="url" itemid="https://static01.nyt.com/images/2017/11/01/arts/03jimmiedurham5/03jimmiedurham5-blog427.jpg"/><meta itemprop="height" content="640"/><meta itemprop="width" content="427"/></div>
+        <figcaption class="caption" itemprop="caption description"><span class="caption-text">“Self-Portrait Pretending to Be Maria Thereza Alves,” from 1995-2006. Ms. Alves, who is Mr. Durham’s partner, is also an artist and activist.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Vincent Tullo for The New York Times        </span>
+            </figcaption></figure><p class="story-body-text story-content" data-para-count="728" data-total-count="7694">The address of Mr. Durham’s work has always been both global and local, as it is in a short 2003 film called “Pursuit of Happiness,” which places a comedy version of his career in the context of the international art world. The film’s protagonist, named Joe Hill (and played by a real artist, Anri Sala), lives alone in a trailer on empty scrub-grassland. He scours the terrain for organic castoffs — rotten fruit, road kill — and makes collages. A gallery spots him, gives him, this unsmiling outsider, a show. The art crowd turns out. The show’s a hit! The dealer (played by Mr. Durham) hands him wads of cash. Now the new Chosen One, Joe Hill torches his trailer and heads for the Big Time (Paris, in the film).</p><p class="story-body-text story-content" data-para-count="562" data-total-count="8256">The narrative is simplistic, but accurate. The art world — or that part of it represented by the nexus of museums, art fairs, auction houses, collectors and promoters that comprise the market — periodically make exactly such one-off choices when it comes to artists perceived as ethically or socially marginal. We have lots of white male superstars these days, but only one Chinese (Ai Weiwei) and one black African (El Anatsui). Mr. Durham has been assigned the Native American slot. Once such decisions are made, the diversity quota filled, the door shuts.</p><div id="story-ad-2" class="story-ad ad ad-placeholder nocontent robots-nocontent ">
+    
+Continue reading the main story
+</div>
+<p class="story-body-text story-content" data-para-count="622" data-total-count="8878" id="story-continues-10">Race-based tokenism justifiably sparks resentment. And I suspect that this resentment has done much to fuel the calling out of Mr. Durham’s ethnic bona fides. But to focus on shaming an artist for what is, on the evidence of this show, a truly brilliant, half-century-long act of politically driven self-invention, strikes me as self-defeating. Far better to direct that anger at the institutions that make the decisions about what art is bought and shown. The Whitney is one, and we should demand that the place where Mr. Durham now stands should be taken by Native America artists, one after another, when he moves on.</p>Continue reading the main story
+    </div>
+<br>[ad_2]
+<br><a href="https://www.nytimes.com/2017/11/02/arts/design/jimmie-durham-review-whitney-museum-cherokee.html?partner=rss&#038;emc=rss">Source link </a>
