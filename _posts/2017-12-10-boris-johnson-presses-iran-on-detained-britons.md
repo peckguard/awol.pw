@@ -1,0 +1,25 @@
+---
+ID: 19295
+post_title: >
+  Boris Johnson Presses Iran on Detained
+  Britons
+author: Staff
+post_excerpt: ""
+layout: post
+permalink: >
+  https://whenitson.com/2017/12/10/boris-johnson-presses-iran-on-detained-britons/
+published: true
+post_date: 2017-12-10 00:38:29
+---
+ [ad_1]
+<br><div>
+        <p class="story-body-text story-content" data-para-count="215" data-total-count="1878" id="story-continues-3">Days later, Mr. Johnson’s words were cited at a court hearing as evidence that Ms. Zaghari-Ratcliffe had engaged in “propaganda against the regime.” Mr. Johnson  apologized for what he said had been a mistake.</p><p class="story-body-text story-content" data-para-count="404" data-total-count="2282">Relations between the Iran and Britain had been frosty since hard-liners ransacked the British Embassy in the Iranian capital in 2011, a move that led to its closing. Ties improved after Iran struck a nuclear agreement with Western nations in 2015, but many Iranian hard-liners distrust Britain, accusing the country of having historically meddled in its affairs, and view Ms. Zaghari-Ratcliffe as a spy.</p><p class="story-body-text story-content" data-para-count="141" data-total-count="2423">Mr. Johnson’s three-day trip to the Middle East took him to Oman on Friday, and he is expected to visit the United Arab Emirates on Sunday.</p><p class="story-body-text story-content" data-para-count="211" data-total-count="2634">Britain is considering settling a longstanding debt to Iran by repaying about 400 million pounds, or about $537 million, from a pre-1979 arms deal involving hundreds of Chieftain tanks that were never delivered.</p><p class="story-body-text story-content" data-para-count="215" data-total-count="2849">Both Britain and Iran say a repayment would not be tied to Ms. Zaghari-Ratcliffe’s case, though the United States made a similar payment to  Iran in 2016, around the time that four American citizens were released.</p>
+
+<p class="story-body-text story-content" data-para-count="248" data-total-count="3097">Ms. Zaghari-Ratcliffe’s husband, Richard Ratcliffe, who had pushed to join Mr. Johnson on the visit, has raised concerns about his wife’s mental health, citing the growing toll of her prolonged incarceration in Tehran’s notorious Evin Prison.</p><p class="story-body-text story-content" data-para-count="154" data-total-count="3251">Mr. Ratcliffe told British news outlets recently that his wife faced trial on new charges on Sunday that carry the possibility of 16 more years in prison.</p><p class="story-body-text story-content" data-para-count="173" data-total-count="3424">Iran has held several foreigners on charges such as espionage, a continuing source of tension with Western nations. Many of the detainees are Iranians with dual citizenship.</p><div id="story-ad-2" class="story-ad ad ad-placeholder nocontent robots-nocontent ">
+    
+Continue reading the main story
+</div>
+<p class="story-body-text story-content" data-para-count="192" data-total-count="3616" id="story-continues-4">At least four Americans and two permanent residents of the United States are known to be held in Iranian prisons. A fifth American, Robert A. Levinson, vanished in Iran more than a decade ago.</p><p class="story-body-text story-content" data-para-count="349" data-total-count="3965">One of the incarcerated Americans, Xiyue Wang, a graduate student in history from Princeton University, was recently transferred to an Evin Prison wing where he feels extremely unsafe because of hostility from other inmates, according to his wife, Hua Qu. She is able to speak with him sometimes on a phone line monitored by the Iranian authorities.</p><p class="story-body-text story-content" data-para-count="138" data-total-count="4103">In a phone interview on Saturday, she said her husband had been threatened by an inmate once held by the United States at Guantánamo Bay.</p><p class="story-body-text story-content" data-para-count="175" data-total-count="4278">“He feels like he’s living in terror every day,” she said. “I’m deeply worried about how the U.S. is going to resolve the case. I hope they accelerate the effort.”</p><p class="story-body-text story-content" data-para-count="252" data-total-count="4530">Human Rights Watch also expressed concern on Saturday about worsening conditions for Mr. Wang, who was convicted on charges of spying for the United States after he had done research for his thesis on 19th-century archives that were open to the public.</p><p class="story-body-text story-content" data-para-count="89" data-total-count="4619">Mr. Wang has strongly denied any wrongdoing, and Princeton has urged Iran to release him.</p>Continue reading the main story
+    </div>
+<br>[ad_2]
+<br><a href="https://www.nytimes.com/2017/12/09/world/middleeast/boris-johnson-iran.html?partner=rss&#038;emc=rss">Source link </a>
